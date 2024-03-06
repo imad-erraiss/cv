@@ -13,7 +13,7 @@ Seeking opportunities to work in complex environments, grow professionally, and 
 **Duration:** 4 Years
 
 - Automated internal operations, enhancing company efficiency.
-- Responsible for full-stack development and operations.
+- Responsible for full-stack development and operations, emphasizing test-driven development methodologies to ensure robust and reliable code.
 - Utilized Django, Nginx, Gunicorn, PostgreSQL, RabbitMQ, and Celery for application development.
 - Managed CI/CD pipelines and dockerized the environment for streamlined deployment.
 

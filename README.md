@@ -44,3 +44,5 @@ Seeking opportunities to work in complex environments, grow professionally, and 
 - Docker
 - PostgreSQL
 - Nginx
+- Cypress (Testing Framework)
+
